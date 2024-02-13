@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "419377329089",
+    "project_id": "carrent-84e57",
+    "storage_bucket": "carrent-84e57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419377329089:android:551f4bfbfc11bd66d9b540",
+        "android_client_info": {
+          "package_name": "com.example.pract"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl6y-VRGBsrU83oSwBcy_leTgbsQ8mzo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
